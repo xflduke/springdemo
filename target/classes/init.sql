@@ -1,1 +1,0 @@
-create table if not exists demo(id int primary key, name varchar(1024), age int);
