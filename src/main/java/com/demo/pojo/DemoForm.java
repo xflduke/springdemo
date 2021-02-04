@@ -11,5 +11,5 @@ import java.io.Serializable;
 @AllArgsConstructor
 public class DemoForm  implements Serializable {
     private String name;
-    private int age;
+    private Integer age;
 }
